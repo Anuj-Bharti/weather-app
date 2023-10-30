@@ -39,4 +39,3 @@ Customization: The app allows users to switch between different units for temper
 
 Notifications: Users can set up weather alerts and notifications for specific weather conditions or changes in their favorite locations.
 
-Dark Mode: The Weather App offers a dark mode option for users who prefer a darker interfa
